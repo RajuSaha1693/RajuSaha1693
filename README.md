@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Raju Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **Javascript,HTML,PHP,CSS,ReactJs**
+- 💬 Ask me about **Javascript,HTML,PHP,CSS,ReactJs,Typescript**
 
 - 📫 How to reach me **rajusaha010693@gmail.com**
 
